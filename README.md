@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://github.com/J2TeaM/idm-trial-reset/releases/latest">
-        <img src="https://img.shields.io/badge/Download-Latest%20Version-brightgreen?style=for-the-badge&logo=download" alt="Download Button" width="300" height="80">
+        <img src="https://img.shields.io/badge/Download-Latest%20Version-brightgreen?style=for-the-badge&logo=download" alt="Download Button" width="300" height="45">
     </a>
 </div>
 
