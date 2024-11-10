@@ -1,3 +1,9 @@
+<div align="center">
+    <a href="https://github.com/J2TeaM/idm-trial-reset/releases/latest">
+        <img src="https://img.shields.io/badge/Download-Latest%20Version-brightgreen?style=for-the-badge&logo=download" alt="Download Button" width="300" height="80">
+    </a>
+</div>
+
 # IDM Trial Reset Tool 2024 v6.42
 
 The **IDM Trial Reset Tool** is a powerful utility designed for educational and informational purposes, allowing users to reset the trial period of **Internet Download Manager (IDM)**. This tool helps extend the IDM trial period without violating any software cracking practices, making it a great solution for users who want to evaluate IDM over an extended time before committing to a purchase. Remember, using this tool should comply with legal standards, and the best way to support IDM is by purchasing a license once you've decided on its long-term use.
@@ -21,14 +27,6 @@ This tool can help in the following ways:
 ## Screenshot
 
 ![idm-trial-reset](https://i.imgur.com/xUGaHMK.gif)
-
-## Download
-
-<div align="center">
-    <a href="https://github.com/J2TeaM/idm-trial-reset/releases/latest">
-        <img src="https://img.shields.io/badge/Download-Latest%20Version-brightgreen?style=for-the-badge" alt="Download Button">
-    </a>
-</div>
 
 ## How to Use IDM Trial Reset Tool
 
