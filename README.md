@@ -54,7 +54,7 @@ Using the **IDM Trial Reset Tool** is straightforward:
 ## Additional Information
 
 - **Free Download for PC**: This tool can be downloaded freely for educational use.
-- **Github Repository**: Check out the latest source code on [GitHub](https://github.com/J2TeaM/idm-trial-reset).
+- **TheZeroIQ Repository**: Check out the latest source code on [TheZeroIQ](https://thezeroiq.com) for more information.
 - **IDM Trial Period Extension**: This tool is designed to provide an extended trial period for educational purposes only.
 
 ## Disclaimer
@@ -64,6 +64,6 @@ This tool is provided for educational and informational purposes only. Misuse of
 ## Credits
 
 - **Original Author**: idmresettrial
-- **Contributors**: J2TeaM on GitHub for making this tool publicly available.
+- **Contributors**: J2TeaM for making this tool publicly available.
 
 By using this tool, you agree to use it responsibly and comply with all relevant legal and ethical standards.
