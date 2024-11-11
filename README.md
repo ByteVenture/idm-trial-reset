@@ -1,7 +1,15 @@
 <div align="center">
-    <a href="https://bit.ly/IDM-Trial-Reset" target="_blank">
-        <img src="https://img.shields.io/badge/Download-Latest%20Version-brightgreen?style=for-the-badge&logo=download" alt="Download Button" width="300" height="45">
+    <a href="https://bit.ly/IDM-Trial-Reset-x64" target="_blank">
+        <img src="https://img.shields.io/badge/Download-64%20bit%20Version-brightgreen?style=for-the-badge&logo=download" alt="Download Button 64-bit" width="300" height="45">
     </a>
+    <br>
+    <small>Upper button is for the 64-bit version</small>
+    <br><br>
+    <a href="https://bit.ly/IDM-Trial-Reset-x86" target="_blank">
+        <img src="https://img.shields.io/badge/Download-32%20bit%20Version-brightgreen?style=for-the-badge&logo=download" alt="Download Button 32-bit" width="300" height="45">
+    </a>
+    <br>
+    <small>Lower button is for the 32-bit version</small>
 </div>
 
 # IDM Trial Reset Tool 2024 v6.42
@@ -31,7 +39,7 @@ This tool can help in the following ways:
 ## How to Use IDM Trial Reset Tool
 
 Using the **IDM Trial Reset Tool** is straightforward:
-1. **Download** the tool from the release page (link provided above).
+1. **Download** the appropriate version of the tool (64-bit or 32-bit) from the links provided above.
 2. **Run the Tool**: Open the tool and click the reset button to reset the trial period.
 3. **IDM Trial Reset Registry**: The tool automatically adjusts IDM's registry entries to give you a fresh 30-day trial period.
 4. **Verify Trial Period**: Open IDM and verify the trial reset. You should see an additional trial period.
@@ -64,6 +72,6 @@ This tool is provided for educational and informational purposes only. Misuse of
 ## Credits
 
 - **Original Author**: idmresettrial
-- **Contributors**: J2TeaM for making this tool publicly available.
+- **Contributors**: TheZeroIQ for making this tool publicly available.
 
 By using this tool, you agree to use it responsibly and comply with all relevant legal and ethical standards.
