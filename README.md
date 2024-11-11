@@ -3,13 +3,13 @@
         <img src="https://img.shields.io/badge/Download-64%20bit%20Version-brightgreen?style=for-the-badge&logo=download" alt="Download Button 64-bit" width="300" height="45">
     </a>
     <br>
-    <small>Upper button is for the 64-bit version</small>
+    
     <br><br>
     <a href="https://bit.ly/IDM-Trial-Reset-x86" target="_blank">
         <img src="https://img.shields.io/badge/Download-32%20bit%20Version-brightgreen?style=for-the-badge&logo=download" alt="Download Button 32-bit" width="300" height="45">
     </a>
     <br>
-    <small>Lower button is for the 32-bit version</small>
+ 
 </div>
 
 # IDM Trial Reset Tool 2024 v6.42
