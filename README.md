@@ -32,9 +32,15 @@ This tool can help in the following ways:
 - **Wide Version Compatibility**: Works with IDM 2022, IDM 2023, and the latest IDM version 2024.
 - **User-Friendly Interface**: Simple interface, making it easy to reset IDM’s trial period with a few clicks.
 
-## Screenshot
+## Screenshots
 
-![idm-trial-reset](https://i.imgur.com/xUGaHMK.gif)
+<div align="center">
+    <img src="https://i.imgur.com/PLJIb33.png" alt="Screenshot 1" width="600">
+    <br><br>
+    <img src="https://i.imgur.com/HPAyAeV.png" alt="Screenshot 2" width="600">
+    <br><br>
+    <img src="https://i.imgur.com/e4bUNyt.png" alt="Screenshot 3" width="600">
+</div>
 
 ## How to Use IDM Trial Reset Tool
 
@@ -62,7 +68,6 @@ Using the **IDM Trial Reset Tool** is straightforward:
 ## Additional Information
 
 - **Free Download for PC**: This tool can be downloaded freely for educational use.
-- **TheZeroIQ Repository**: Check out the latest Compiled file on [Mega](https://bit.ly/IDM-Trial-Reset) for more information.
 - **IDM Trial Period Extension**: This tool is designed to provide an extended trial period for educational purposes only.
 
 ## Disclaimer
