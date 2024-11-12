@@ -35,11 +35,11 @@ This tool can help in the following ways:
 ## Screenshots
 
 <div align="center">
-    <img src="https://i.imgur.com/PLJIb33.png" alt="Screenshot 1" width="600">
+    <img src="https://i.imgur.com/PLJIb33.png" alt="Screenshot 1" width="500">
     <br><br>
-    <img src="https://i.imgur.com/HPAyAeV.png" alt="Screenshot 2" width="600">
+    <img src="https://i.imgur.com/HPAyAeV.png" alt="Screenshot 2" width="500">
     <br><br>
-    <img src="https://i.imgur.com/e4bUNyt.png" alt="Screenshot 3" width="600">
+    <img src="https://i.imgur.com/e4bUNyt.png" alt="Screenshot 3" width="500">
 </div>
 
 ## How to Use IDM Trial Reset Tool
