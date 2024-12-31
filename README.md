@@ -1,18 +1,10 @@
 <div align="center">
-    <a href="https://bit.ly/IDM-Trial-Reset-x64" target="_blank">
-        <img src="https://img.shields.io/badge/Download-64%20bit%20Version-brightgreen?style=for-the-badge&logo=download" alt="Download Button 64-bit" width="300" height="45">
+    <a href="https://t.me/IDMTrialResetBot" target="_blank">
+        <img src="https://img.shields.io/badge/Follow%20-%40IDMTrialResetBot-blue?style=for-the-badge&logo=telegram" alt="Telegram Bot" width="300" height="45">
     </a>
-    <br>
-    <small>64-bit version</small>
-    <br><br>
-    <a href="https://bit.ly/IDM-Trial-Reset-x86" target="_blank">
-        <img src="https://img.shields.io/badge/Download-32%20bit%20Version-brightgreen?style=for-the-badge&logo=download" alt="Download Button 32-bit" width="300" height="45">
-    </a>
-    <br>
-    <small>32-bit version</small>
 </div>
 
-# IDM Trial Reset Tool (v6.42 Build 23) - November 2024 
+# IDM Trial Reset Tool (v6.42 Build 23) - January 2025 
 
 The **IDM Trial Reset Tool** is a powerful utility designed for educational and informational purposes, allowing users to **reset the trial period of Internet Download Manager (IDM)**. This tool helps **extend the IDM trial period** without violating any software cracking practices, making it a great solution for users who want to evaluate IDM over an extended time before committing to a purchase. Remember, using this tool should comply with legal standards, and the best way to support IDM is by purchasing a license once you've decided on its long-term use.
 
@@ -29,7 +21,7 @@ This tool can help in the following ways:
 
 - **IDM Trial Reset Download**: Easily download the tool to reset your IDM trial period.
 - **Reset IDM 30 Days Trial**: Extend the trial period to test IDM longer.
-- **IDM Reset Trial Tool**: Works with IDM 2022, IDM 2023, and IDM 2024.
+- **IDM Reset Trial Tool**: Works with IDM 2022, IDM 2023, and IDM 2025.
 - **Free Download IDM Trial Reset**: This tool is free to download for educational use.
 - **Registry Support**: Adjusts IDM’s registry entries to **reset the trial period** without reinstallation.
 - **IDM Automatic Trial Reset**: Set up the tool for automatic trial resets without manual intervention.
@@ -47,7 +39,7 @@ This tool can help in the following ways:
 ## How to Use IDM Trial Reset Tool
 
 Using the **IDM Trial Reset Tool** is straightforward:
-1. **Download** the appropriate version of the tool (64-bit or 32-bit) from the links provided above.
+1. **Download** the appropriate version of the tool (64-bit or 32-bit).
 2. **Run the Tool**: Open the tool and click the reset button to **reset the IDM trial period**.
 3. **IDM Trial Reset Registry**: The tool automatically adjusts IDM's registry entries to give you a fresh **30-day trial period**.
 4. **Verify Trial Period**: Open IDM and verify the trial reset. You should see an additional trial period.
@@ -58,7 +50,7 @@ Using the **IDM Trial Reset Tool** is straightforward:
    - Yes, this tool is designed for **educational purposes**. However, any misuse is the responsibility of the user. Please support IDM by purchasing a license if you find the software useful.
 
 ### 2. Does this work with all IDM versions?
-   - Yes, the tool supports various IDM versions, including **IDM 64-bit**, **IDM 2022**, **IDM 2023**, and the **latest IDM 2024**.
+   - Yes, the tool supports various IDM versions, including **IDM 64-bit**, **IDM 2022**, **IDM 2023**, and the **latest IDM 2025**.
 
 ### 3. Can I download IDM for free?
    - Yes, IDM offers a **30-day free trial period**, which you can use to evaluate the software. The IDM Trial Reset Tool extends this evaluation period without permanent changes.
