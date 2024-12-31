@@ -1,7 +1,9 @@
 <div align="center">
-    <a href="https://t.me/IDMTrialResetBot" target="_blank">
-        <img src="https://img.shields.io/badge/Follow%20-%40IDMTrialResetBot-blue?style=for-the-badge&logo=telegram" alt="Telegram Bot" width="300" height="45">
+    <a href="https://t.me/@IDMTrialResetBot" target="_blank">
+        <img src="https://img.shields.io/badge/Download%20Here-Click%20to%20Download-brightgreen?style=for-the-badge&logo=download" alt="Download Here" width="300" height="45">
     </a>
+    <br><br>
+    <strong>Notice Board:</strong> IDM trial is working 100%! You can easily use it from our Telegram bot: <a href="https://t.me/IDMTrialResetBot" target="_blank">@IDMTrialResetBot</a>
 </div>
 
 # IDM Trial Reset Tool (v6.42 Build 23) - January 2025 
