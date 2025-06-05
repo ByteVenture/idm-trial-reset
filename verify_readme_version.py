@@ -1,4 +1,6 @@
-<div align="center">
+import re
+
+readme_content = """<div align="center">
     <a href="https://t.me/@IDMTrialResetBot" target="_blank">
         <img src="https://img.shields.io/badge/Download%20Here-Click%20to%20Download-brightgreen?style=for-the-badge&logo=download" alt="Download Here" width="300" height="45">
     </a>
@@ -85,3 +87,15 @@ This tool is provided for **educational and informational purposes only**. Misus
 - **Contributors**: TheZeroIQ for making this tool publicly available.
 
 By using this tool, you agree to use it responsibly and comply with all relevant legal and ethical standards.
+"""
+
+new_version_string = "v6.42 Build 24"
+# Pattern to find the new version string within the specific heading format
+pattern = r"^# IDM Trial Reset Tool \(" + re.escape(new_version_string) + r"\) - .*"
+
+match = re.search(pattern, readme_content, re.MULTILINE)
+
+if match:
+    print(f"Confirmation: Found new version string '{new_version_string}' in the correct heading.")
+else:
+    print(f"Error: New version string '{new_version_string}' not found in the expected location in README.md.")
