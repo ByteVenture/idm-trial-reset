@@ -1,4 +1,6 @@
-<div align="center">
+import re
+
+readme_content = """<div align="center">
     <a href="https://t.me/@IDMTrialResetBot" target="_blank">
         <img src="https://img.shields.io/badge/Download%20Here-Click%20to%20Download-brightgreen?style=for-the-badge&logo=download" alt="Download Here" width="300" height="45">
     </a>
@@ -6,7 +8,7 @@
     <strong>Notice Board:</strong> IDM trial reset tool is working 100%! You can easily use it from our Telegram bot: <a href="https://t.me/IDMTrialResetBot" target="_blank">@IDMTrialResetBot</a>
 </div>
 
-# IDM Trial Reset Tool (v6.42 Build 24) - January 2025
+# IDM Trial Reset Tool (v6.42 Build 23) - January 2025
 
 The **IDM Trial Reset Tool** is a powerful utility designed for educational and informational purposes, allowing users to **reset the trial period of Internet Download Manager (IDM)**. This tool helps **extend the IDM trial period** without violating any software cracking practices, making it a great solution for users who want to evaluate IDM over an extended time before committing to a purchase. Remember, using this tool should comply with legal standards, and the best way to support IDM is by purchasing a license once you've decided on its long-term use.
 
@@ -85,3 +87,11 @@ This tool is provided for **educational and informational purposes only**. Misus
 - **Contributors**: TheZeroIQ for making this tool publicly available.
 
 By using this tool, you agree to use it responsibly and comply with all relevant legal and ethical standards.
+"""
+
+match = re.search(r"^# IDM Trial Reset Tool \((v[\d.]+ Build \d+)\)", readme_content, re.MULTILINE)
+
+if match:
+    print(match.group(1))
+else:
+    print("Error: Version string not found.")

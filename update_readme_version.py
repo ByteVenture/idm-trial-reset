@@ -1,4 +1,6 @@
-<div align="center">
+import re
+
+readme_content = """<div align="center">
     <a href="https://t.me/@IDMTrialResetBot" target="_blank">
         <img src="https://img.shields.io/badge/Download%20Here-Click%20to%20Download-brightgreen?style=for-the-badge&logo=download" alt="Download Here" width="300" height="45">
     </a>
@@ -6,7 +8,7 @@
     <strong>Notice Board:</strong> IDM trial reset tool is working 100%! You can easily use it from our Telegram bot: <a href="https://t.me/IDMTrialResetBot" target="_blank">@IDMTrialResetBot</a>
 </div>
 
-# IDM Trial Reset Tool (v6.42 Build 24) - January 2025
+# IDM Trial Reset Tool (v6.42 Build 23) - January 2025
 
 The **IDM Trial Reset Tool** is a powerful utility designed for educational and informational purposes, allowing users to **reset the trial period of Internet Download Manager (IDM)**. This tool helps **extend the IDM trial period** without violating any software cracking practices, making it a great solution for users who want to evaluate IDM over an extended time before committing to a purchase. Remember, using this tool should comply with legal standards, and the best way to support IDM is by purchasing a license once you've decided on its long-term use.
 
@@ -85,3 +87,49 @@ This tool is provided for **educational and informational purposes only**. Misus
 - **Contributors**: TheZeroIQ for making this tool publicly available.
 
 By using this tool, you agree to use it responsibly and comply with all relevant legal and ethical standards.
+"""
+
+old_version = "v6.42 Build 23"
+new_version = "v6.42 Build 24"
+
+# Regex to find the specific line and capture the part before the version and the part after.
+# It looks for "# IDM Trial Reset Tool (" followed by the old_version, and then " ) - "
+pattern = re.compile(r"^(# IDM Trial Reset Tool \()" + re.escape(old_version) + r"(\) - .*)$", re.MULTILINE)
+
+if pattern.search(readme_content):
+    modified_content = pattern.sub(r"\1" + new_version + r"\2", readme_content)
+    # Instead of writing to file and printing, we'll store the modified content
+    # and a success message for the next step.
+    instruction = "overwrite"
+    content_to_write = modified_content
+    message = "Successfully updated the version string in README.md."
+else:
+    instruction = "print_error"
+    content_to_write = "" # Not used in this case
+    message = "Error: Target line or version string not found in README.md."
+
+# This script will decide what to do in the next step based on 'instruction'
+# For now, we just print what the script *would* do to verify logic.
+# The actual file writing or error printing will be done by the agent using appropriate tools.
+
+print(f"Instruction: {instruction}")
+if instruction == "overwrite":
+    # print("Content that would be written to README.md:\n---\n" + content_to_write + "\n---")
+    # To avoid excessive output, we'll just confirm it's ready to be written
+    print("README.md content is ready to be overwritten.")
+print(f"Message: {message}")
+
+# Store results for the next step (this is a conceptual step for the agent's logic)
+# For the agent, it would mean calling the overwrite_file_with_block tool or printing the error.
+_AGENT_ACTION = instruction
+_AGENT_CONTENT = content_to_write
+_AGENT_MESSAGE = message
+
+# To be used by the agent in the next turn:
+# If _AGENT_ACTION == "overwrite":
+#   overwrite_file_with_block
+#   README.md
+#   _AGENT_CONTENT
+#   print(_AGENT_MESSAGE)
+# Else:
+#   print(_AGENT_MESSAGE)
